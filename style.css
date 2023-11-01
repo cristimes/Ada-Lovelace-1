@@ -1,15 +1,19 @@
 body { 
-    background-color: rgb(134, 123, 102);
+    background-color: rgb(166, 163, 158);
 }
 
 h1 {
     font-size: 30px;
     text-align: center;
 }
-
-p {
+#p1 {
     text-align: center;
-    color:rgb(70, 6, 66);
+    color: palevioletred;
+    font-size: 20px;
+}
+#p2 {
+    text-align: center;
+    color:purple;
     font-size: 20px;
 }
 
